@@ -1,0 +1,12 @@
+center{
+    color: "white";
+    background-image: linear-gradient(to right bottom, #373737, #3b333f, #462c41, #55213a, #61122b, #670e2b, #6d072c, #73002c, #730045, #691261, #50277b, #003890);
+    padding: "10px";
+    height: 100vh;
+    padding-top: 30px;
+}
+#lol{
+    float:center;
+    border: 2px #ffffff;
+    background-color: transparent;
+}
